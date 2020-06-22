@@ -1,0 +1,7 @@
+#Container{
+   width: 0 auto;
+   height: 500px;
+   border: 2px solid;
+   border-color: azure;
+   background-color: blueviolet;
+}
